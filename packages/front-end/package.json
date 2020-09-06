@@ -1,0 +1,19 @@
+{
+  "name": "@front-end/dashboard",
+  "version": "0.0.1",
+  "description": "Next.js dashboard for GitFlash",
+  "author": "Nirmalya Ghosh <nirmalya.email@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "9.3.2",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "@front-end/components": "0.0.1"
+  }
+}
