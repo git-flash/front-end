@@ -4,6 +4,7 @@
   "description": "Next.js dashboard for GitFlash",
   "author": "Nirmalya Ghosh <nirmalya.email@gmail.com>",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
